@@ -91,7 +91,7 @@ Understanding how users browse products, progress through the purchase funnel, a
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/TejasMJ/Google-Play-Store-App-EDA-.git
+git clone https://github.com/TejasMJ/Google_Merchandise_Store_EDA.git
 cd Google-Play-Store-App-EDA-
 ```
 
